@@ -1,0 +1,61 @@
+.body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* NAVBAR */
+.navbar {
+    background-color: #299ca9
+}
+
+/* CAROUSEL */
+.header {
+    background-size: cover;
+    background-position: center;
+    margin-top : 50px ;
+}
+
+/* QUIENES SOMOS */
+#quienes-somos {
+    background-color: black;
+}
+#quienes-somos hr {
+    border-top: 2px solid #299ca9;
+}
+#quienes-somos i {
+    color: white;
+    background-color: #299ca9;
+}
+.iconos {
+    background-color: #299ca9;
+}
+
+/* DESTACADOS */
+#destacados {
+    background-color: black;
+}
+#destacados hr {
+    border-top: 2px solid #299ca9;
+}
+.card-body {
+    background-color: #299ca9;
+}
+.card-img-top {
+    height: 175px;
+}
+
+/* CONTACTO */
+#contacto {
+    background-color: black;
+}
+#contacto hr {
+    border-top: 2px solid #299ca9;
+}
+
+/* FOOTER */
+.footer {
+    background-color: #299ca9;
+}
+.footer i {
+    color: white;
+    background-color: #299ca9;
+}
